@@ -44,9 +44,12 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![empd virutual labs 1](https://github.com/user-attachments/assets/1c8fb430-3edf-447e-9367-9968070a23fc)
+![empd virutual lab 2](https://github.com/user-attachments/assets/60941cd1-4c62-43ec-bba3-a26620d14152)
 
-### Name:
-### Register Number:
+
+### Name:sathish kumar T
+### Register Number:24900758
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
